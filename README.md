@@ -12,7 +12,7 @@ sam init
 
 #Step 2 - Build your application
 cd sam-app
-sam build
+sam build [--use-container]
 
 #Step 3 - Deploy your application
 sam deploy --guided
