@@ -10,6 +10,8 @@ Basic application setup, build, deploy
 #Step 1 - Download a sample application
 sam init
 
+pip install -r /path/to/requirements.txt -t /path/to/build
+
 #Step 2 - Build your application
 cd sam-app
 sam build [--use-container]
