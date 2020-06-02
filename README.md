@@ -9,4 +9,5 @@ https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/s
 
 ## SAM Example Applications
 
- - [Twitter Search](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:077246666028:applications~aws-serverless-twitter-event-source)
+- [Serverless Application Repository](https://eu-west-1.console.aws.amazon.com/serverlessrepo/home?region=eu-west-1#/available-applications)
+- [Twitter Search](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:077246666028:applications~aws-serverless-twitter-event-source)
